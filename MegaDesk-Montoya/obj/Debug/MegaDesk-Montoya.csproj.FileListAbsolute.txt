@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\bin\Debug\MegaDesk-Montoya.exe.config
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\bin\Debug\MegaDesk-Montoya.exe
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\bin\Debug\MegaDesk-Montoya.pdb
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk-Montoya.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk-Montoya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk_Montoya.MainMenu.resources
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk_Montoya.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk-Montoya.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk-Montoya.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk-Montoya.exe
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk-Montoya.pdb
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk_Montoya.AddQuote.resources
+C:\Users\Admin\Documents\GitHub\cit365\MegaDesk-Montoya\MegaDesk-Montoya\obj\Debug\MegaDesk_Montoya.DisplayQuote.resources
